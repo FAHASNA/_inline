@@ -1,3 +1,4 @@
-# _inline
-Inline CRUD MySQL with jQuery Ajax
-https://phppot.com/demo/jquery-ajax-inline-crud-with-php/
+# _inline<br>
+Inline CRUD MySQL with jQuery Ajax<br>
+Source : https://phppot.com/demo/jquery-ajax-inline-crud-with-php/<br>
+Edit by Suharjoko - JQ
