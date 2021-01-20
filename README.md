@@ -2,4 +2,4 @@
 Inline CRUD - PHP MySQL with jQuery Ajax<br>
 Source : https://phppot.com/demo/jquery-ajax-inline-crud-with-php/<br>
 Edited by Suharjoko - JQ @ Home<br>
-Brach : Home-Dell-Inspirion-3162
+Branch : Home-Dell-Inspirion-3162
