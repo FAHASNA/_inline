@@ -1,1 +1,2 @@
 theme: jekyll-theme-cayman
+exclude: ['README.markdown', 'Gemfile.lock', 'Gemfile']
